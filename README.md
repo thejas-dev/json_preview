@@ -2,6 +2,8 @@
 
 A highly customizable Flutter widget for displaying JSON data in a collapsible tree view.
 
+![JSON Viewer Example](https://ik.imagekit.io/d3kzbpbila/thejashari_7b-oV6LYY)
+
 ## Features
 
 - Display JSON data in a hierarchical, collapsible tree view
