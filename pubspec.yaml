@@ -1,5 +1,5 @@
 name: json_preview
-description: A customizable Flutter widget for displaying JSON data in a collapsible tree view.
+description: A lightweight and customizable Flutter widget for displaying JSON data in a collapsible tree view.
 version: 0.1.3
 homepage: https://github.com/thejas-dev/json_preview
 

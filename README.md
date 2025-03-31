@@ -1,6 +1,6 @@
 # Flutter JSON Viewer
 
-A highly customizable Flutter widget for displaying JSON data in a collapsible tree view.
+A lightweight and highly customizable Flutter widget for displaying JSON data in a collapsible tree view.
 
 ![JSON Viewer Example](https://ik.imagekit.io/d3kzbpbila/thejashari_7b-oV6LYY)
 
