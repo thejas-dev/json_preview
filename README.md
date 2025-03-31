@@ -5,7 +5,7 @@ A customizable Flutter widget for displaying JSON data in a collapsible tree vie
 ## Features
 
 - Display JSON data in a hierarchical, collapsible tree view
-- Color-coded highlighting based on data types
+- Color-coded highlighting based on data types (Customizable)
 - Automatic expansion of top-level nodes
 - Support for all JSON data types (objects, arrays, strings, numbers, booleans, null)
 
